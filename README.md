@@ -1,4 +1,4 @@
-# predict-ratings-model
+# Sentiment Analysis Model
 
 Predicting Using TF-IDF and Logistic Regression
 
